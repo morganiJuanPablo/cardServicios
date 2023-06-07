@@ -7,13 +7,13 @@
   },
   {
     "Título": "Control veterinario",
-    "Imagen": "https://ibb.co/9bmW9wL",
+    "Imagen": "https://github.com/morganiJuanPablo/imagenesCards/blob/4166ef66699824f3f7cdf0c4c6a02e0758a76702/servicioVeterinario.png",
     "Detalle": "Junto a profesionales veterinarios, le hacemos a tu mascota un chequeo general y analíticas. Según el caso le hacemos la aplicación de las vacunas que tenga pendientes incluído en el precio.",
     "Precio": 45
   },
   {
     "Título": "Peluquería canina",
-    "Imagen": "https://ibb.co/zhZQchd",
+    "Imagen": "https://github.com/morganiJuanPablo/imagenesCards/blob/4166ef66699824f3f7cdf0c4c6a02e0758a76702/peluqueriaCanina.png",
     "Detalle": "Un completo servicio de peluquería, el cual lucirán un arreglo cómodo y actual, tratando siempre de realzar la belleza y personalidad de cada raza. Incluye corte de cabello uñas y baño.",
     "Precio": 30
   }
