@@ -1,7 +1,7 @@
 {"cardServicios" : [
   {
     "Título": "Guardería por hora",
-    "Imagen": "https://raw.githubusercontent.com/morganiJuanPablo/imagenesCards/4166ef66699824f3f7cdf0c4c6a02e0758a76702/guarderiaPorHora.png",
+    "Imagen": "https://raw.githubusercontent.com/morganiJuanPablo/imagenesCards/main/guarderiaPorHora.png",
     "Detalle": "La estadía es por horas. Las puedes distribuir en los días que quieras. El máximo de horas en la jornada es de 12. Si las horas ingresadas superan esa cantidad las puedes usar otro día.",
     "Precio": 5
   },
