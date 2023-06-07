@@ -3,19 +3,19 @@
     "Título": "Guardería por hora",
     "Imagen": "https://ibb.co/gTvY9kx",
     "Detalle": "La estadía es por horas. Las puedes distribuir en los días que quieras. El máximo de horas en la jornada es de 12. Si las horas ingresadas superan esa cantidad las puedes usar otro día.",
-    "Precio": "A solo 5Є por hora",
+    "Precio": 5
   },
   {
     "Título": "Control veterinario",
     "Imagen": "https://ibb.co/9bmW9wL",
     "Detalle": "Junto a profesionales veterinarios, le hacemos a tu mascota un chequeo general y analíticas. Según el caso le hacemos la aplicación de las vacunas que tenga pendientes incluído en el precio.",
-    "Precio": "A solo 45Є",
+    "Precio": 45
   },
   {
     "Título": "Peluquería canina",
     "Imagen": "https://ibb.co/zhZQchd",
     "Detalle": "Un completo servicio de peluquería, el cual lucirán un arreglo cómodo y actual, tratando siempre de realzar la belleza y personalidad de cada raza. Incluye corte de cabello uñas y baño.",
-    "Precio": "A solo 30Є",
-  },
-]};
+    "Precio": 30
+  }
+]}
   
